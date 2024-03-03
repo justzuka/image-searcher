@@ -1,0 +1,22 @@
+.history-text-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+	flex-wrap: wrap;
+	width: 50%;
+	margin: auto;
+}
+
+.history-container {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	gap: 30px;
+}
+
+.history-button {
+	padding: 5px 20px;
+}

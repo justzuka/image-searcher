@@ -1,0 +1,5 @@
+.images-container {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr); /* Two columns with equal width */
+	gap: 16px; /* Adjust the gap between items as needed */
+}
